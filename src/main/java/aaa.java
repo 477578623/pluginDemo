@@ -3,5 +3,4 @@ public class aaa {
     int b = 0;
     int c = 0;
     int d = 0;
-    int f = 0;
 }
